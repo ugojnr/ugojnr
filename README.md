@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ugo Ofo-muogbo jnr
-- 👀 I’m a Front-end web developer and UI/UX designer. I'm a graduate of computer science.
+- 👀 I’m a Flutter Developer.
 - i live in Lagos, Nigeria.
-- i currently do freelance
+- Currently working on trolley app 
 
 
 
